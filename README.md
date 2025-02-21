@@ -25,7 +25,5 @@
         <h2>Screenshots</h2>
         <img src="Captura1.png" alt="Captura de tela do Vim 1">
         <img src="Captura2.png" alt="Captura de tela do Vim 2">
-        <hr/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" alt="Logo do editor de texto Vim." width="200px" height="200px">
     </body>
 </html>
